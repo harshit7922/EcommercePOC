@@ -1,0 +1,29 @@
+//{
+//  "SwaggerEndPoints": [
+//    {
+//      "Key": "products",
+//      "Version": "v1",
+//      "Url": "http://localhost:5132/swagger/v1/swagger.json"
+//    },
+//    {
+//      "Key": "users",
+//      "Version": "v1",
+//      "Url": "http://localhost:5136/swagger/v1/swagger.json"
+//    },
+//    {
+//      "Key": "orders",
+//      "Version": "v1",
+//      "Url": "http://localhost:5108/swagger/v1/swagger.json"
+//    },
+//    {
+//      "Key": "cart",
+//      "Version": "v1",
+//      "Url": "http://localhost:5095/swagger/v1/swagger.json"
+//    },
+//    {
+//      "Key": "payment",
+//      "Version": "v1",
+//      "Url": "http://localhost:5289/swagger/v1/swagger.json"
+//    }
+//  ]
+//}
